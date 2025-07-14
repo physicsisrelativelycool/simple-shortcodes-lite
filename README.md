@@ -3,7 +3,7 @@
 A lightweight collection of versatile WordPress shortcodes — built for fast implementation, clean output, and developer flexibility.
 
 ![GPLv2 License](https://img.shields.io/badge/license-GPLv2-blue)
-![WordPress 6+](https://img.shields.io/badge/wp-tested-6.x-brightgreen)
+![Tested on WP 6.5+](https://img.shields.io/badge/Tested_on-WP%206.5+-blueviolet)
 ![Built with PHP](https://img.shields.io/badge/built%20with-PHP-blue)
 
 ![Simple Shortcodes Lite - Social Preview](social-preview.png)
